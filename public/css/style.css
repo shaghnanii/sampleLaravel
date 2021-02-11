@@ -1,0 +1,24 @@
+.fa_icon {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #888;
+    padding: 0.5em 0.6em;
+    cursor: pointer;
+    background-color: rgba(177, 171, 171, 0.712);
+
+}
+
+.fa_icon:hover {
+    background-color: #888;
+}
+
+
+.fa_round {
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #888;
+    padding: 0.2em 0.3em;
+    cursor: pointer;
+    background-color: rgba(71, 19, 212, 0.712);
+
+}
